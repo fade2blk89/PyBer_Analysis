@@ -5,6 +5,7 @@ Within the data sets provided, we were tasked with creating a summary DataFrame 
 
 ## Source
 Data Source: city_data.csv, ride_data.csv
+
 Software: Python 3.7.9, Jupyter Notebook 6.4.8
 
 ## Results
