@@ -20,11 +20,11 @@ Although the percentage of drivers and rides in urban cities remains high when v
 
 After determining the total number of rides, drivers and fares per city type, we also calculated the average fare per ride and driver into the below dataframe. 
 
-![Summary Dataframe]()
+![Summary Dataframe](https://github.com/fade2blk89/PyBer_Analysis/blob/main/analysis/Fig9.png)
 
 Using the information from this datafme, we were able to resample the information and convert the information into a line graph showing the weekly fares over time from January to April 2019 for each of the city types. 
 
-![Line Graph Summary]()
+![Line Graph Summary](https://github.com/fade2blk89/PyBer_Analysis/blob/main/analysis/Fig8.png)
 
 ## Summary
 The above dataframe shows that the average fare price seems to increase as less drivers are available and more fares are requested, whereas the multiple-line graph demonstrates the total amount of fares being completed in urban cities completely overshadows the amounts taken in from the suburban and rural cities. Even though rural fares and drivers accounted for the smallest amount of total fares, we recommend increasing the availability radius of rideshare drivers to include more of this city type. Alternatively, we may want to provide a first time ride incentive to those in rural or suburban areas to increase overall total fares. Finally, we may want to consider partnering with local transit to help transport clients between a central pick up/drop off location in a suburban city and their rural location. 
